@@ -10,5 +10,8 @@ package deber_ing.newpackage;
  * @author admin
  */
 public class NewClass {
+    public void holamundo(){
+        System.out.println("holamundo");
+    }
     
 }
