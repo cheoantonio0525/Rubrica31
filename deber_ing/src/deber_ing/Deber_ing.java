@@ -3,12 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package deber_ing;
 
-/**
- *
- * @author admin
- */
+package deber_ing;
+import deber_ing.clases;
+ 
 public class Deber_ing {
 
     /**
@@ -17,6 +15,10 @@ public class Deber_ing {
     public static void main(String[] args) {
         
         System.out.println("hola mundo");
+        System.out.println("ya no se que hacer ");
+        
+          
     }
+  
     
 }
