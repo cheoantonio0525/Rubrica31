@@ -14,8 +14,7 @@ public class Deber_ing {
      */
     public static void main(String[] args) {
         
-        System.out.println("hola mundo");
-        System.out.println("ya no se que hacer ");
+        System.out.println("dar un nuevo ingreso para todo lo que se quiere usar");
         
           
     }
